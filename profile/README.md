@@ -11,11 +11,11 @@ We create an environment where everyone can unleash their potential and bring th
 ---
 
 #### Curious about what we're cooking up?  
-👀 **Explore our repositories** and dive into the innovative projects that fuel our passion!
+👀 **Keep a watch out for our latest repos** and dive into the innovative projects that fuel our passion!
 
 #### Looking to join the fun?  
 👩‍💻👨‍💻 **Check out our career page** if you’re ready to join a team where your ideas matter and your skills can truly shine!
-
+https://azola.consulting/karriere/
 ---
 
 ✨ _Diversity, innovation, and a dash of tech wizardry._  
