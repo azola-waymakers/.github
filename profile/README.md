@@ -15,7 +15,9 @@ We create an environment where everyone can unleash their potential and bring th
 
 #### Looking to join the fun?  
 👩‍💻👨‍💻 **Check out our career page** if you’re ready to join a team where your ideas matter and your skills can truly shine!
+
 https://azola.consulting/karriere/
+
 ---
 
 ✨ _Diversity, innovation, and a dash of tech wizardry._  
